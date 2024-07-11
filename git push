@@ -1,0 +1,17 @@
+[33mcommit 1c29726cf39016e0730e3474da623a4b9b4be0c4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ilan-123 <ilanjd2006@gmail.com>
+Date:   Wed Jul 10 16:42:43 2024 -0300
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 11e2c4f0e1a834be3bb1932ec3cbd688fb66c426[m
+Author: Ilan-123 <ilanjd2006@gmail.com>
+Date:   Wed Jul 10 16:32:51 2024 -0300
+
+    Add hello_world.txt
+
+[33mcommit a79276ffc5cc1263a4e1b7e92ccdd09d9c155055[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ilan-123 <175057099+Ilan-123@users.noreply.github.com>
+Date:   Wed Jul 10 14:21:04 2024 -0300
+
+    Initial commit
